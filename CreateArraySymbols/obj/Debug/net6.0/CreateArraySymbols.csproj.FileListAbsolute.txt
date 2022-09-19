@@ -1,0 +1,15 @@
+C:\gitEduc\c#\Controlnaya\CreateArraySymbols\obj\Debug\net6.0\CreateArraySymbols.csproj.AssemblyReference.cache
+C:\gitEduc\c#\Controlnaya\CreateArraySymbols\obj\Debug\net6.0\CreateArraySymbols.GeneratedMSBuildEditorConfig.editorconfig
+C:\gitEduc\c#\Controlnaya\CreateArraySymbols\obj\Debug\net6.0\CreateArraySymbols.AssemblyInfoInputs.cache
+C:\gitEduc\c#\Controlnaya\CreateArraySymbols\obj\Debug\net6.0\CreateArraySymbols.AssemblyInfo.cs
+C:\gitEduc\c#\Controlnaya\CreateArraySymbols\obj\Debug\net6.0\CreateArraySymbols.csproj.CoreCompileInputs.cache
+C:\gitEduc\c#\Controlnaya\CreateArraySymbols\bin\Debug\net6.0\CreateArraySymbols.exe
+C:\gitEduc\c#\Controlnaya\CreateArraySymbols\bin\Debug\net6.0\CreateArraySymbols.deps.json
+C:\gitEduc\c#\Controlnaya\CreateArraySymbols\bin\Debug\net6.0\CreateArraySymbols.runtimeconfig.json
+C:\gitEduc\c#\Controlnaya\CreateArraySymbols\bin\Debug\net6.0\CreateArraySymbols.dll
+C:\gitEduc\c#\Controlnaya\CreateArraySymbols\bin\Debug\net6.0\CreateArraySymbols.pdb
+C:\gitEduc\c#\Controlnaya\CreateArraySymbols\obj\Debug\net6.0\CreateArraySymbols.dll
+C:\gitEduc\c#\Controlnaya\CreateArraySymbols\obj\Debug\net6.0\refint\CreateArraySymbols.dll
+C:\gitEduc\c#\Controlnaya\CreateArraySymbols\obj\Debug\net6.0\CreateArraySymbols.pdb
+C:\gitEduc\c#\Controlnaya\CreateArraySymbols\obj\Debug\net6.0\CreateArraySymbols.genruntimeconfig.cache
+C:\gitEduc\c#\Controlnaya\CreateArraySymbols\obj\Debug\net6.0\ref\CreateArraySymbols.dll
