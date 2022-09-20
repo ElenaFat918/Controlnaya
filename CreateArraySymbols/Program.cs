@@ -15,9 +15,9 @@ int size = int.Parse(Console.ReadLine()!);
 var firstArr = InputArray(size);
 
 Console.WriteLine("Введите максимальное количество символов в элементе массива: ");
-int lengthSymbols = int.Parse(Console.ReadLine()!);
+int countSymbols = int.Parse(Console.ReadLine()!);
 
-var secondArr = CreateArraySymbols(firstArr, lengthSymbols);
+var secondArr = CreateArraySymbols(firstArr, countSymbols);
 PrintArray(secondArr);
 
 string[] InputArray(int size)
